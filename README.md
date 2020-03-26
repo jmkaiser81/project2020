@@ -12,8 +12,14 @@ the societal plight—improving general health of the people and reducing povert
 closing the wealth gap at the cost of national health?
 
  Steps:
+ 
  ReadMe file
+ 
  Import necessary packages
+ 
  Database cleanup 
+ 
  Use SQL and pandas to aggregate data
+ 
  Use Plotly, Matplotlib or Seaborn to visualize and present data
+ 
